@@ -1,4 +1,4 @@
 # descriptive statistics
 
 **contributors:**
-@Grodekkk @urist-mcengineer
+[Grodekkk](https://github.com/Grodekkk) [urist-mcengineer](https://github.com/urist-mcengineer)
