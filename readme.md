@@ -1,3 +1,5 @@
 # descriptive statistics
 
-contributors: 
+contributors:
+* @Grodekkk
+* @urist-mcengineer
