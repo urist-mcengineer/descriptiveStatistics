@@ -1,1 +1,3 @@
-readme goes here :)
+#descriptive statistics
+
+contributors: 
